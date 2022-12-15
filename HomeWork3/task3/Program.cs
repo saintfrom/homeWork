@@ -10,7 +10,7 @@ namespace task3
     {
         static void Main(string[] args)
         {
-            ////Задание №3
+            //Задание №3
             Console.WriteLine("Введите число для проверки: ");
             int checkNumber = int.Parse(Console.ReadLine());
             bool isPrime = false;
